@@ -7,3 +7,13 @@ th{
 .id{
   font-weight: bold;
 }
+
+td{
+  font-family: 'Inter';
+  font-size: 18px;
+}
+
+.Totales{
+  font-family: 'Inter';
+  font-size: 20px;
+}
